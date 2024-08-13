@@ -1,1 +1,2 @@
 this is my second line of code in pro1.txt file
+this is my second line of code  modifying after commit in pro1.txt 
